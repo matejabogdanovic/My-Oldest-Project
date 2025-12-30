@@ -8,7 +8,7 @@ The date said - year **2017**. Keep in mind that I was barely **14** years old a
 
 <img src="https://github.com/matejabogdanovic/My-Oldest-Project/blob/main/diagram_for_code_recovery.png" width="100%"/> 
 
-Nobody had taught me what a function was, let alone good programming practices or code formatting (as you will see from the source code). \
+Nobody had taught me what a function was, let alone good programming practices or code formatting (as you will see in the source code). \
 I don't even think I knew that I could assign a new value to a variable - I just used addition 🙂.‍ \
 That's the reason why you will see lines like `z=t+t1;` where `t=0` and `t1=1`. I just wanted to set `z` flag to `1`! 
 
