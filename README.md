@@ -1,7 +1,6 @@
 # My Oldest Project - Quiz
 
 ## Context
-This project holds a special place in my heart. \
 This project holds a special place in my heart because It's the oldest project I was able to recover. \
 I found a video in my phone gallery, as well as a photo of a diagram representing the logic behind certain decisions. \
 The date said - year **2017**. Keep in mind that I was barely **14** years old at the time. 
