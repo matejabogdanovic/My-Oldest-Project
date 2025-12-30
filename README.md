@@ -4,7 +4,7 @@
 This project holds special place in my heart. \
 It's my oldest project that I was able to recover. \
 I've found a video in my phone gallery, as well as a photo of a diagram that represents the logic behind certain decisions. \
-The date said - year **2017**. Keep in mind that I was barely **14** years old at the time. \
+The date said - year **2017**. Keep in mind that I was barely **14** years old at the time. 
 
 <img src="https://github.com/matejabogdanovic/My-Oldest-Project/blob/main/diagram_for_code_recovery.png" width="100%"/> 
 
